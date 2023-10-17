@@ -1,0 +1,5 @@
+USER = hfjv29 (Jacob Dear),
+ALGORITHM CODE = SA, NAME OF CITY-FILE = AISearchfile017.txt,
+SIZE = 17, TOUR LENGTH = 1637,
+12,3,4,0,16,9,14,7,13,10,11,8,2,1,5,15,6,
+NOTE = 
